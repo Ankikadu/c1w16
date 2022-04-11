@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  color: rgb(224, 40, 163);
+  border: 1px solid black;
+}
+h3{
+  justify-items: start;
+}
+.container{
+  display: grid;
+  grid-template-columns: repeat(5,20%);
+  border: 2px solid black;
+}
